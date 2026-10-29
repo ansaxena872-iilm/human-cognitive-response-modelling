@@ -1,0 +1,25 @@
+
+# Compiled Java files
+*.class
+
+# Maven build output
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Local environment settings
+.env
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Personal or sensitive recordings
+data/raw/
+*.mp4
+*.avi
+*.mov
